@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	
+background-image: linear-gradient(#ADD8E6, white 80%);
+background-repeat: no-repeat;
+	
+}
+
+input[type=submit] {
+	width: 140px;
+	height: 40px;
+	border-radius: 5px;
+	border:solid;
+	background-color: white;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+img{
+	
+		border-radius: 5px;
+}
