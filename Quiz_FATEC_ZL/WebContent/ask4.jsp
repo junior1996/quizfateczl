@@ -16,10 +16,10 @@ C-<input type="radio" name="ask7" value="0">Emerson<p>
 D-<input type="radio" name="ask7" value="0">Ramirez<p>
 
 
-<h3>8 - Resposta certa é a A?</h3><p>
-A-<input type="radio" name="ask8" value="1">Ieda<p>
-B-<input type="radio" name="ask8" value="0">Ana Scardino<p>
-C-<input type="radio" name="ask8" value="0">Ivo Branquinho<p>
+<h3>8 - Qual professor(a) tem como papel de parede uma foto dele acariciando uma onça?</h3><p>
+A-<input type="radio" name="ask8" value="0">Ieda<p>
+B-<input type="radio" name="ask8" value="0">Wellington<p>
+C-<input type="radio" name="ask8" value="1">Antonio<p>
 D-<input type="radio" name="ask8" value="0">Cristina<p>
 <input type="submit" name="resp4" value="Resulta Final">
 </form>
