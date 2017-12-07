@@ -7,7 +7,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <link href="Folha_Estilo.css" rel="stylesheet" type="text/css">
-<title>Insert title here</title>
+<title>Quiz FATEC - Resultado</title>
 </head>
 <%
 	//Aqui eu instacio a Entidade_Magica e tenho acesso ao resultado

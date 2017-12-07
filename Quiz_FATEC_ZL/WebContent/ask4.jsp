@@ -10,14 +10,14 @@
 <body>
 <form method="post" action="./RespController">
 <h3>7 - Qual professor(a) usa uma pochete estilosa na cintura ?</h3><p>
-A-<input type="radio" name="ask7" value="1">Ana Scardino<p>
+A-<input type="radio" name="ask7" value="1" required>Ana Scardino<p>
 B-<input type="radio" name="ask7" value="0">Ivo Branquinho<p>
 C-<input type="radio" name="ask7" value="0">Emerson<p>
 D-<input type="radio" name="ask7" value="0">Ramirez<p>
 
 
 <h3>8 - Qual professor(a) tem como papel de parede uma foto dele acariciando uma onça?</h3><p>
-A-<input type="radio" name="ask8" value="0">Ieda<p>
+A-<input type="radio" name="ask8" value="0" required>Ieda<p>
 B-<input type="radio" name="ask8" value="0">Wellington<p>
 C-<input type="radio" name="ask8" value="1">Antonio<p>
 D-<input type="radio" name="ask8" value="0">Cristina<p>

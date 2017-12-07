@@ -13,7 +13,7 @@
 <form method="post" action="./RespController">
 
 <h3>3 - Qual o nome da Banda de Rock que o professor mestre Leandro Colevati participa ?</h3><p>
-A-<input type="radio" name="ask3" value="0">Nightwish<p>
+A-<input type="radio" name="ask3" value="0" required>Nightwish<p>
 B-<input type="radio" name="ask3" value="1">Avenus Rock<p>
 C-<input type="radio" name="ask3" value="0">Hash Band<p>
 D-<input type="radio" name="ask3" value="0">Iron Maiden<p>
@@ -21,7 +21,7 @@ D-<input type="radio" name="ask3" value="0">Iron Maiden<p>
 
 
 <h3>4 - A frase "Oh pessoal" é dita com frequencia em aula por qual professor(a) ?</h3><p>
-A-<input type="radio" name="ask4" value="0">Antonio<p>
+A-<input type="radio" name="ask4" value="0" required>Antonio<p>
 B-<input type="radio" name="ask4" value="0">Ieda<p>
 C-<input type="radio" name="ask4" value="1">Andrea<p>
 D-<input type="radio" name="ask4" value="0">Ana Scardino<p>

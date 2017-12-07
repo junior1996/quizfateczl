@@ -11,15 +11,15 @@
 <form method="post" action="./RespController">
 
 <h3>5 - Qual professor(a) é obsecado pela cor verde ?</h3><p>
-A-<input type="radio" name="ask5" value="0">Leandro Colevati<p>
+A-<input type="radio" name="ask5" value="0" required>Leandro Colevati<p>
 B-<input type="radio" name="ask5" value="1">Vendramel<p>
 C-<input type="radio" name="ask5" value="0">Wellington<p>
 D-<input type="radio" name="ask5" value="0">Celia<p>
 
 
 
-<h3>6 - Qual destes professores(a) tinha um cachorro de estima-se e o trazia para sala de aula?</h3><p>
-A-<input type="radio" name="ask6" value="0">Ieda<p>
+<h3>6 - Qual destes professores(a) tinha um cachorro de estimação e o trazia para sala de aula?</h3><p>
+A-<input type="radio" name="ask6" value="0" required>Ieda<p>
 B-<input type="radio" name="ask6" value="0">Ana Scardino<p>
 C-<input type="radio" name="ask6" value="0">Ivo Branquinho<p>
 D-<input type="radio" name="ask6" value="1">Cristina<p>
